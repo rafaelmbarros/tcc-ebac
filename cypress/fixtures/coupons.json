@@ -1,0 +1,17 @@
+[
+  {
+    "amount": "10",
+    "discount_type": "percent",
+    "description": "10 Porcento de desconto"
+  },
+  {
+    "amount": "20",
+    "discount_type": "percent",
+    "description": "20 Porcento de desconto"
+  },
+  {
+    "amount": "30",
+    "discount_type": "percent",
+    "description": "30 Porcento de desconto"
+  }
+]
